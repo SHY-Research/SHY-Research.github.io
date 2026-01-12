@@ -1,2 +1,5 @@
-# SHY-Research.github.io
-Personal academic homepage (under construction)
+# Hyeyeong Son
+
+Incoming MA student in the Department of Economics at Sungkyunkwan University.
+
+This site is under construction.
