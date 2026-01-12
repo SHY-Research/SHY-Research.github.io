@@ -24,7 +24,7 @@ Independent study project
 - Gaining experience in empirical strategies commonly used in applied microeconomics
 
 ## Publications
-+ Son, H., Kim, J.S. (2026). _The Impact of Lockdown Policies on Social Capital: Evidence from Australia_. Social Indicators Research.
+- Son, H., Kim, J.S. (2026). _The Impact of Lockdown Policies on Social Capital: Evidence from Australia_. Social Indicators Research.
 
 ## CV
 [Curriculum Vitae (PDF)](files/CV_HyeyeongSon.pdf)
