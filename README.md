@@ -27,8 +27,7 @@ Independent study project
 - Son, H., Kim, J.S. (2026). _The Impact of Lockdown Policies on Social Capital: Evidence from Australia_. Social Indicators Research.
 
 ## CV
-Curriculum Vitae (PDF)  
-(Will be uploaded)
+[Curriculum Vitae (PDF)](files/CV_HyeyeongSon.pdf)
 
 ## Contact
 - Email: hyeyeong.son@g.skku.edu
