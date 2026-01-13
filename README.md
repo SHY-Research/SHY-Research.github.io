@@ -18,7 +18,7 @@ I am currently exploring potential research topics and methods.
 - Empirical Data Analysis (Stata)
 
 ## Publications
-- Son, H., & Kim, J.S. (2026). _The Impact of Lockdown Policies on Social Capital: Evidence from Australia_. Social Indicators Research. [DOI](https://doi.org/10.1007/s11205-026-03804-0)
+- Son, H., & Kim, J.S. (2026). The Impact of Lockdown Policies on Social Capital: Evidence from Australia. _Social Indicators Research_. [DOI](https://doi.org/10.1007/s11205-026-03804-0)
 
 ## Research Projects
 
