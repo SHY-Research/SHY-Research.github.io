@@ -32,5 +32,5 @@ Independent study project
 [Curriculum Vitae (PDF)](files/CV_HyeyeongSon.pdf)
 
 ## Contact
-- Email: hyeyeong.son@g.skku.edu
+- Email: hyeyeong.son [at] g.skku.edu
 - GitHub: https://github.com/hyson-econ
