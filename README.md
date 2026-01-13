@@ -6,7 +6,9 @@ Incoming MA student in the Department of Economics at Sungkyunkwan University.
 
 ## About
 I am an incoming MA student in the Department of Economics at Sungkyunkwan University.
+
 My academic interests lie in applied microeconomics, with a focus on empirical and data-driven economic analysis.
+
 I am currently exploring potential research topics and methods.
 
 ## Research Interests
