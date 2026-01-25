@@ -5,16 +5,12 @@ Incoming MA student in the Department of Economics at Sungkyunkwan University.
 ---
 
 ## About
-I am an incoming MA student in the Department of Economics at Sungkyunkwan University.
-
 I am broadly interested in applied microeconomics and empirical methods.
-
-In particular, I am interested in how empirical conclusions depend on modeling choices and identifying assumptions.
 
 ## Research Interests
 - Applied Microeconomics
 - Labor Economics
-- Econometrics and empirical methods
+- Econometrics
 - Empirical Data Analysis (Stata)
 
 ## Publications
