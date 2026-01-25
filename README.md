@@ -26,3 +26,4 @@ In particular, I am interested in how empirical conclusions depend on modeling c
 ## Contact
 - Email: hyeyeong.son [at] g.skku.edu
 - GitHub: https://github.com/hyson-econ
+- LinkedIn: https://www.linkedin.com/in/hyson-econ/
